@@ -1,0 +1,72 @@
+Car 11
+================
+Lincoln
+Wrangler
+Brown
+13
+----------------
+
+Car 38
+================
+Chrysler
+Wrangler
+Pink
+98
+----------------
+
+Car 48
+================
+Chevrolet
+Wrangler
+Pink
+66
+----------------
+
+Car 49
+================
+Ford
+Wrangler
+Orange
+125
+----------------
+
+Car 52
+================
+Lincoln
+Wrangler
+Gray
+68
+----------------
+
+Car 59
+================
+Chevrolet
+Wrangler
+Violet
+63
+----------------
+
+Car 63
+================
+Dodge
+Wrangler
+Yellow
+25
+----------------
+
+Car 65
+================
+Buick
+Wrangler
+Blue
+52
+----------------
+
+Car 89
+================
+Telsa
+Wrangler
+Red
+115
+----------------
+

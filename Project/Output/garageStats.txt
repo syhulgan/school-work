@@ -1,0 +1,34 @@
+Car Count: 100
+---------------------
+Telsa: 11
+Dodge: 11
+Buick: 13
+Ford: 8
+Lincoln: 10
+Chevrolet: 8
+Chrysler: 13
+Lexus: 9
+Honda: 7
+Audi: 10
+---------------------
+Yellow: 14
+Orange: 12
+Red: 5
+Pink: 7
+Violet: 12
+Blue: 13
+Green: 9
+Brown: 8
+Gray: 12
+Black: 8
+---------------------
+Prius: 8
+Supra: 5
+Model3: 13
+Corvette: 12
+Lamborghini: 16
+Bugatti: 4
+Pagani: 10
+Focus: 8
+Wrangler: 9
+Mustang: 15

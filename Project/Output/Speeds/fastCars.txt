@@ -1,0 +1,360 @@
+Car 2
+================
+Audi
+Model3
+Orange
+85
+----------------
+
+Car 3
+================
+Telsa
+Corvette
+Black
+83
+----------------
+
+Car 5
+================
+Dodge
+Focus
+Gray
+82
+----------------
+
+Car 13
+================
+Dodge
+Pagani
+Yellow
+107
+----------------
+
+Car 14
+================
+Buick
+Pagani
+Yellow
+149
+----------------
+
+Car 20
+================
+Lexus
+Pagani
+Gray
+72
+----------------
+
+Car 21
+================
+Honda
+Corvette
+Violet
+86
+----------------
+
+Car 23
+================
+Chrysler
+Mustang
+Gray
+99
+----------------
+
+Car 24
+================
+Chrysler
+Lamborghini
+Green
+127
+----------------
+
+Car 26
+================
+Lexus
+Focus
+Orange
+121
+----------------
+
+Car 27
+================
+Lexus
+Model3
+Red
+119
+----------------
+
+Car 30
+================
+Telsa
+Supra
+Black
+82
+----------------
+
+Car 32
+================
+Audi
+Focus
+Brown
+92
+----------------
+
+Car 35
+================
+Honda
+Model3
+Orange
+138
+----------------
+
+Car 36
+================
+Ford
+Prius
+Black
+144
+----------------
+
+Car 37
+================
+Honda
+Prius
+Blue
+144
+----------------
+
+Car 38
+================
+Chrysler
+Wrangler
+Pink
+98
+----------------
+
+Car 40
+================
+Audi
+Lamborghini
+Gray
+136
+----------------
+
+Car 41
+================
+Dodge
+Corvette
+Yellow
+120
+----------------
+
+Car 42
+================
+Lincoln
+Lamborghini
+Violet
+123
+----------------
+
+Car 43
+================
+Lexus
+Corvette
+Green
+83
+----------------
+
+Car 45
+================
+Buick
+Focus
+Orange
+110
+----------------
+
+Car 46
+================
+Chevrolet
+Lamborghini
+Brown
+81
+----------------
+
+Car 49
+================
+Ford
+Wrangler
+Orange
+125
+----------------
+
+Car 50
+================
+Chrysler
+Corvette
+Violet
+115
+----------------
+
+Car 51
+================
+Ford
+Pagani
+Gray
+73
+----------------
+
+Car 53
+================
+Audi
+Focus
+Brown
+143
+----------------
+
+Car 54
+================
+Lincoln
+Prius
+Pink
+142
+----------------
+
+Car 55
+================
+Telsa
+Model3
+Black
+87
+----------------
+
+Car 57
+================
+Lincoln
+Mustang
+Green
+148
+----------------
+
+Car 61
+================
+Chrysler
+Prius
+Gray
+111
+----------------
+
+Car 64
+================
+Telsa
+Lamborghini
+Green
+108
+----------------
+
+Car 71
+================
+Telsa
+Mustang
+Pink
+87
+----------------
+
+Car 73
+================
+Ford
+Prius
+Gray
+95
+----------------
+
+Car 74
+================
+Chrysler
+Lamborghini
+Green
+126
+----------------
+
+Car 75
+================
+Telsa
+Pagani
+Violet
+136
+----------------
+
+Car 77
+================
+Audi
+Focus
+Gray
+123
+----------------
+
+Car 78
+================
+Honda
+Mustang
+Red
+148
+----------------
+
+Car 79
+================
+Chrysler
+Model3
+Yellow
+91
+----------------
+
+Car 80
+================
+Chrysler
+Corvette
+Orange
+85
+----------------
+
+Car 82
+================
+Dodge
+Mustang
+Violet
+78
+----------------
+
+Car 86
+================
+Chrysler
+Prius
+Orange
+143
+----------------
+
+Car 87
+================
+Buick
+Model3
+Red
+77
+----------------
+
+Car 89
+================
+Telsa
+Wrangler
+Red
+115
+----------------
+
+Car 92
+================
+Buick
+Lamborghini
+Blue
+86
+----------------
+

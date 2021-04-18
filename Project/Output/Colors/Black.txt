@@ -1,0 +1,64 @@
+Car 3
+================
+Telsa
+Corvette
+Black
+83
+----------------
+
+Car 22
+================
+Lincoln
+Model3
+Black
+70
+----------------
+
+Car 29
+================
+Chevrolet
+Lamborghini
+Black
+34
+----------------
+
+Car 30
+================
+Telsa
+Supra
+Black
+82
+----------------
+
+Car 36
+================
+Ford
+Prius
+Black
+144
+----------------
+
+Car 55
+================
+Telsa
+Model3
+Black
+87
+----------------
+
+Car 68
+================
+Buick
+Mustang
+Black
+26
+----------------
+
+Car 93
+================
+Audi
+Corvette
+Black
+52
+----------------
+

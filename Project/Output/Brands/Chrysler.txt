@@ -1,0 +1,104 @@
+Car 16
+================
+Chrysler
+Pagani
+Blue
+65
+----------------
+
+Car 23
+================
+Chrysler
+Mustang
+Gray
+99
+----------------
+
+Car 24
+================
+Chrysler
+Lamborghini
+Green
+127
+----------------
+
+Car 34
+================
+Chrysler
+Mustang
+Pink
+8
+----------------
+
+Car 38
+================
+Chrysler
+Wrangler
+Pink
+98
+----------------
+
+Car 39
+================
+Chrysler
+Supra
+Orange
+13
+----------------
+
+Car 50
+================
+Chrysler
+Corvette
+Violet
+115
+----------------
+
+Car 61
+================
+Chrysler
+Prius
+Gray
+111
+----------------
+
+Car 74
+================
+Chrysler
+Lamborghini
+Green
+126
+----------------
+
+Car 76
+================
+Chrysler
+Bugatti
+Brown
+11
+----------------
+
+Car 79
+================
+Chrysler
+Model3
+Yellow
+91
+----------------
+
+Car 80
+================
+Chrysler
+Corvette
+Orange
+85
+----------------
+
+Car 86
+================
+Chrysler
+Prius
+Orange
+143
+----------------
+

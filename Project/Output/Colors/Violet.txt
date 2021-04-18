@@ -1,0 +1,96 @@
+Car 19
+================
+Lincoln
+Corvette
+Violet
+60
+----------------
+
+Car 21
+================
+Honda
+Corvette
+Violet
+86
+----------------
+
+Car 42
+================
+Lincoln
+Lamborghini
+Violet
+123
+----------------
+
+Car 50
+================
+Chrysler
+Corvette
+Violet
+115
+----------------
+
+Car 58
+================
+Buick
+Focus
+Violet
+0
+----------------
+
+Car 59
+================
+Chevrolet
+Wrangler
+Violet
+63
+----------------
+
+Car 67
+================
+Buick
+Prius
+Violet
+40
+----------------
+
+Car 75
+================
+Telsa
+Pagani
+Violet
+136
+----------------
+
+Car 82
+================
+Dodge
+Mustang
+Violet
+78
+----------------
+
+Car 85
+================
+Telsa
+Model3
+Violet
+0
+----------------
+
+Car 95
+================
+Audi
+Corvette
+Violet
+52
+----------------
+
+Car 97
+================
+Dodge
+Pagani
+Violet
+67
+----------------
+

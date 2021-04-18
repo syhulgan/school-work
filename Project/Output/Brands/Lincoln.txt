@@ -1,0 +1,80 @@
+Car 11
+================
+Lincoln
+Wrangler
+Brown
+13
+----------------
+
+Car 19
+================
+Lincoln
+Corvette
+Violet
+60
+----------------
+
+Car 22
+================
+Lincoln
+Model3
+Black
+70
+----------------
+
+Car 42
+================
+Lincoln
+Lamborghini
+Violet
+123
+----------------
+
+Car 52
+================
+Lincoln
+Wrangler
+Gray
+68
+----------------
+
+Car 54
+================
+Lincoln
+Prius
+Pink
+142
+----------------
+
+Car 56
+================
+Lincoln
+Bugatti
+Yellow
+42
+----------------
+
+Car 57
+================
+Lincoln
+Mustang
+Green
+148
+----------------
+
+Car 98
+================
+Lincoln
+Model3
+Red
+48
+----------------
+
+Car 99
+================
+Lincoln
+Model3
+Orange
+39
+----------------
+

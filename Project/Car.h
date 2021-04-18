@@ -2,13 +2,13 @@
 #include <string>
 using namespace std;
 
-struct Car
+struct Car //storing the cars
 {
   string brand, model, color;
   int maxSpeed;
 };
 
-struct Output
+struct Output //storing output paths
 {
   string outputBrandPath;
   string outputModelPath;

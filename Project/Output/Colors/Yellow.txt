@@ -1,0 +1,112 @@
+Car 6
+================
+Buick
+Model3
+Yellow
+22
+----------------
+
+Car 12
+================
+Chevrolet
+Corvette
+Yellow
+62
+----------------
+
+Car 13
+================
+Dodge
+Pagani
+Yellow
+107
+----------------
+
+Car 14
+================
+Buick
+Pagani
+Yellow
+149
+----------------
+
+Car 25
+================
+Chevrolet
+Lamborghini
+Yellow
+48
+----------------
+
+Car 28
+================
+Dodge
+Pagani
+Yellow
+52
+----------------
+
+Car 41
+================
+Dodge
+Corvette
+Yellow
+120
+----------------
+
+Car 56
+================
+Lincoln
+Bugatti
+Yellow
+42
+----------------
+
+Car 62
+================
+Dodge
+Bugatti
+Yellow
+45
+----------------
+
+Car 63
+================
+Dodge
+Wrangler
+Yellow
+25
+----------------
+
+Car 70
+================
+Dodge
+Corvette
+Yellow
+33
+----------------
+
+Car 79
+================
+Chrysler
+Model3
+Yellow
+91
+----------------
+
+Car 84
+================
+Lexus
+Lamborghini
+Yellow
+11
+----------------
+
+Car 90
+================
+Honda
+Lamborghini
+Yellow
+49
+----------------
+

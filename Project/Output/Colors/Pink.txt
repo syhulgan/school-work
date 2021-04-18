@@ -1,0 +1,56 @@
+Car 10
+================
+Audi
+Supra
+Pink
+64
+----------------
+
+Car 33
+================
+Lexus
+Pagani
+Pink
+35
+----------------
+
+Car 34
+================
+Chrysler
+Mustang
+Pink
+8
+----------------
+
+Car 38
+================
+Chrysler
+Wrangler
+Pink
+98
+----------------
+
+Car 48
+================
+Chevrolet
+Wrangler
+Pink
+66
+----------------
+
+Car 54
+================
+Lincoln
+Prius
+Pink
+142
+----------------
+
+Car 71
+================
+Telsa
+Mustang
+Pink
+87
+----------------
+

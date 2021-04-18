@@ -1,0 +1,120 @@
+Car 7
+================
+Lexus
+Mustang
+Blue
+11
+----------------
+
+Car 8
+================
+Buick
+Mustang
+Gray
+38
+----------------
+
+Car 23
+================
+Chrysler
+Mustang
+Gray
+99
+----------------
+
+Car 34
+================
+Chrysler
+Mustang
+Pink
+8
+----------------
+
+Car 44
+================
+Lexus
+Mustang
+Blue
+40
+----------------
+
+Car 47
+================
+Honda
+Mustang
+Blue
+37
+----------------
+
+Car 57
+================
+Lincoln
+Mustang
+Green
+148
+----------------
+
+Car 60
+================
+Buick
+Mustang
+Gray
+41
+----------------
+
+Car 68
+================
+Buick
+Mustang
+Black
+26
+----------------
+
+Car 71
+================
+Telsa
+Mustang
+Pink
+87
+----------------
+
+Car 72
+================
+Audi
+Mustang
+Green
+52
+----------------
+
+Car 78
+================
+Honda
+Mustang
+Red
+148
+----------------
+
+Car 81
+================
+Dodge
+Mustang
+Blue
+26
+----------------
+
+Car 82
+================
+Dodge
+Mustang
+Violet
+78
+----------------
+
+Car 91
+================
+Audi
+Mustang
+Orange
+9
+----------------
+

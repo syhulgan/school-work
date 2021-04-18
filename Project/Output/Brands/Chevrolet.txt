@@ -1,0 +1,64 @@
+Car 12
+================
+Chevrolet
+Corvette
+Yellow
+62
+----------------
+
+Car 15
+================
+Chevrolet
+Lamborghini
+Blue
+12
+----------------
+
+Car 25
+================
+Chevrolet
+Lamborghini
+Yellow
+48
+----------------
+
+Car 29
+================
+Chevrolet
+Lamborghini
+Black
+34
+----------------
+
+Car 46
+================
+Chevrolet
+Lamborghini
+Brown
+81
+----------------
+
+Car 48
+================
+Chevrolet
+Wrangler
+Pink
+66
+----------------
+
+Car 59
+================
+Chevrolet
+Wrangler
+Violet
+63
+----------------
+
+Car 88
+================
+Chevrolet
+Model3
+Blue
+15
+----------------
+

@@ -1,0 +1,88 @@
+Car 5
+================
+Dodge
+Focus
+Gray
+82
+----------------
+
+Car 13
+================
+Dodge
+Pagani
+Yellow
+107
+----------------
+
+Car 28
+================
+Dodge
+Pagani
+Yellow
+52
+----------------
+
+Car 41
+================
+Dodge
+Corvette
+Yellow
+120
+----------------
+
+Car 62
+================
+Dodge
+Bugatti
+Yellow
+45
+----------------
+
+Car 63
+================
+Dodge
+Wrangler
+Yellow
+25
+----------------
+
+Car 70
+================
+Dodge
+Corvette
+Yellow
+33
+----------------
+
+Car 81
+================
+Dodge
+Mustang
+Blue
+26
+----------------
+
+Car 82
+================
+Dodge
+Mustang
+Violet
+78
+----------------
+
+Car 96
+================
+Dodge
+Lamborghini
+Brown
+64
+----------------
+
+Car 97
+================
+Dodge
+Pagani
+Violet
+67
+----------------
+

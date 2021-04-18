@@ -1,0 +1,104 @@
+Car 6
+================
+Buick
+Model3
+Yellow
+22
+----------------
+
+Car 8
+================
+Buick
+Mustang
+Gray
+38
+----------------
+
+Car 14
+================
+Buick
+Pagani
+Yellow
+149
+----------------
+
+Car 18
+================
+Buick
+Lamborghini
+Blue
+16
+----------------
+
+Car 45
+================
+Buick
+Focus
+Orange
+110
+----------------
+
+Car 58
+================
+Buick
+Focus
+Violet
+0
+----------------
+
+Car 60
+================
+Buick
+Mustang
+Gray
+41
+----------------
+
+Car 65
+================
+Buick
+Wrangler
+Blue
+52
+----------------
+
+Car 66
+================
+Buick
+Lamborghini
+Gray
+56
+----------------
+
+Car 67
+================
+Buick
+Prius
+Violet
+40
+----------------
+
+Car 68
+================
+Buick
+Mustang
+Black
+26
+----------------
+
+Car 87
+================
+Buick
+Model3
+Red
+77
+----------------
+
+Car 92
+================
+Buick
+Lamborghini
+Blue
+86
+----------------
+

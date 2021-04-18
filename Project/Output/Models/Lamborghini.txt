@@ -1,0 +1,128 @@
+Car 15
+================
+Chevrolet
+Lamborghini
+Blue
+12
+----------------
+
+Car 17
+================
+Ford
+Lamborghini
+Brown
+10
+----------------
+
+Car 18
+================
+Buick
+Lamborghini
+Blue
+16
+----------------
+
+Car 24
+================
+Chrysler
+Lamborghini
+Green
+127
+----------------
+
+Car 25
+================
+Chevrolet
+Lamborghini
+Yellow
+48
+----------------
+
+Car 29
+================
+Chevrolet
+Lamborghini
+Black
+34
+----------------
+
+Car 40
+================
+Audi
+Lamborghini
+Gray
+136
+----------------
+
+Car 42
+================
+Lincoln
+Lamborghini
+Violet
+123
+----------------
+
+Car 46
+================
+Chevrolet
+Lamborghini
+Brown
+81
+----------------
+
+Car 64
+================
+Telsa
+Lamborghini
+Green
+108
+----------------
+
+Car 66
+================
+Buick
+Lamborghini
+Gray
+56
+----------------
+
+Car 74
+================
+Chrysler
+Lamborghini
+Green
+126
+----------------
+
+Car 84
+================
+Lexus
+Lamborghini
+Yellow
+11
+----------------
+
+Car 90
+================
+Honda
+Lamborghini
+Yellow
+49
+----------------
+
+Car 92
+================
+Buick
+Lamborghini
+Blue
+86
+----------------
+
+Car 96
+================
+Dodge
+Lamborghini
+Brown
+64
+----------------
+

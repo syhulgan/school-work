@@ -1,0 +1,104 @@
+Car 1
+================
+Ford
+Pagani
+Blue
+26
+----------------
+
+Car 7
+================
+Lexus
+Mustang
+Blue
+11
+----------------
+
+Car 15
+================
+Chevrolet
+Lamborghini
+Blue
+12
+----------------
+
+Car 16
+================
+Chrysler
+Pagani
+Blue
+65
+----------------
+
+Car 18
+================
+Buick
+Lamborghini
+Blue
+16
+----------------
+
+Car 37
+================
+Honda
+Prius
+Blue
+144
+----------------
+
+Car 44
+================
+Lexus
+Mustang
+Blue
+40
+----------------
+
+Car 47
+================
+Honda
+Mustang
+Blue
+37
+----------------
+
+Car 65
+================
+Buick
+Wrangler
+Blue
+52
+----------------
+
+Car 81
+================
+Dodge
+Mustang
+Blue
+26
+----------------
+
+Car 88
+================
+Chevrolet
+Model3
+Blue
+15
+----------------
+
+Car 92
+================
+Buick
+Lamborghini
+Blue
+86
+----------------
+
+Car 94
+================
+Telsa
+Prius
+Blue
+31
+----------------
+

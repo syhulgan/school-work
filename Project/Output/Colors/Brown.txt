@@ -1,0 +1,64 @@
+Car 11
+================
+Lincoln
+Wrangler
+Brown
+13
+----------------
+
+Car 17
+================
+Ford
+Lamborghini
+Brown
+10
+----------------
+
+Car 32
+================
+Audi
+Focus
+Brown
+92
+----------------
+
+Car 46
+================
+Chevrolet
+Lamborghini
+Brown
+81
+----------------
+
+Car 53
+================
+Audi
+Focus
+Brown
+143
+----------------
+
+Car 76
+================
+Chrysler
+Bugatti
+Brown
+11
+----------------
+
+Car 83
+================
+Telsa
+Bugatti
+Brown
+46
+----------------
+
+Car 96
+================
+Dodge
+Lamborghini
+Brown
+64
+----------------
+
